@@ -103,7 +103,7 @@ Customer_Churn_Analysis/
 ```
 ## 📸 Demo Screenshot
 
-![Customer Churn App](images/app_screenshot.png)
+![Customer Churn App](app_screenshot.png)
 
 ## 📦 Libraries Used
 
