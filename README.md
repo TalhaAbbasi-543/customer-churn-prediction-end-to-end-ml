@@ -4,6 +4,11 @@ This project is a Machine Learning application that predicts whether a customer 
 
 The goal of this project is to help businesses identify customers who are at risk of leaving so they can take preventive actions.
 
+🚀 Live Demo
+
+🔗 Try the App:
+https://customer-churn-prediction-end-to-end-ml-wdz6dml7b24adk7u9gifzm.streamlit.app/
+
 ---
 
 ## 🚀 Project Overview
@@ -96,6 +101,7 @@ Customer_Churn_Analysis/
 ├── Customer_Churn.csv
 └── Customer_Churn.ipynb
 ```
+
 
 ## 📦 Libraries Used
 
