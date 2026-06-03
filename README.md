@@ -90,15 +90,11 @@ Customer_Churn_Analysis/
 │
 ├── README.md
 ├── requirements.txt
-│
-├── app/
-│   ├── app.py
-│   ├── model.pkl
-│   └── Scaler.pkl
-│
-├── notebooks/
-│   ├── Customer_Churn.ipynb
-
+├── app.py
+├── model.pkl
+├── scaler.pkl
+├── Customer_Churn.csv
+└── Customer_Churn.ipynb
 ```
 
 ## 📦 Libraries Used
