@@ -101,7 +101,9 @@ Customer_Churn_Analysis/
 ├── Customer_Churn.csv
 └── Customer_Churn.ipynb
 ```
+## 📸 Demo Screenshot
 
+![Customer Churn App](images/app_screenshot.png)
 
 ## 📦 Libraries Used
 
