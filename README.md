@@ -83,14 +83,23 @@ Models were evaluated using:
 
 ---
 
-## 🖥️ Deployment
+## Project Structure
 
-The final model is deployed using **Streamlit**, allowing users to input customer details and get real-time churn predictions.
+```text
+Customer_Churn_Analysis/
+│
+├── README.md
+├── requirements.txt
+│
+├── app/
+│   ├── app.py
+│   ├── model.pkl
+│   └── Scaler.pkl
+│
+├── notebooks/
+│   ├── Customer_Churn.ipynb
 
-Model is saved using:
-- `joblib`
-
----
+```
 
 ## 📦 Libraries Used
 
@@ -112,17 +121,10 @@ The main goal of this project is to help businesses:
 - Improve customer retention strategies  
 - Make data-driven decisions  
 
----
-
 ## 👨‍💻 Author
 
-Built as a Machine Learning practice project focused on real-world business problem solving.
+**Talha Abbasi**
 
----
+📧 Email: [talhaabbaci543@gmail.com](mailto:talhaabbaci543@gmail.com)
 
-## ⭐ Future Improvements
-
-- Add more advanced models like XGBoost  
-- Improve feature engineering  
-- Deploy on cloud (AWS / Render)  
-- Add dashboard analytics in Streamlit  
+🐙 GitHub: [TalhaAbbasi-543](https://github.com/TalhaAbbasi-543)
